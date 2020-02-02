@@ -1,0 +1,29 @@
+
+Reflection and learnings from GGJ 2020.
+
+Goal was to make game with:
+* "Dead artist Society" diversifier
+* possibly no text, so could be played by people who don't speak same language
+* play time within 10 minutes
+* suitable for 2-10 players, with optimal number: 4
+
+
+I wasn't able to convince others to join me, so it become 1 person work.
+
+Learnings:
+
+Doing alone is hard, especially hard to playtest.
+Drawing skills was not enough to do anything reasonable, and fall back to text version.
+Able to playtest first version already at the end of Friday, and got valuable feedback.
+Tried to get feedback from other teams about idea and gameplay.
+Regular feedback and playtests form 50% of the game (I will not be able to come up with these good ideas on my own).
+It helped to define important milestones in the first hours of the jam.
+Sleeping 8+ hours every day and have enough food helped to keep energy high and be productive.
+Doing alone resulted in lost of motivation during last day. It felt not important to polish the game before uploading.
+Doing alone allow faster iteration cycles, and ability to change any aspect of game, without discarding others work in the team.
+Jam gives opportunity to build and try mechanics that are unusual to board games.
+
+Most valuable advices that I heard during jam:
+* focus on the execution of the gameplay
+* what player expected to feel while playing the game?
+
